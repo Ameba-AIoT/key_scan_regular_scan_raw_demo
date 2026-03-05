@@ -1,4 +1,4 @@
-* [中文版本](./README.md)
+* [中文版本](./README_CN.md)
 
 ### Ameba RTL8721Dx SoC: key_scan_regular_scan_demo (Raw API, FreeRTOS)
 

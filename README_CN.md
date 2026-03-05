@@ -1,4 +1,4 @@
-* [English Version](./README_EN.md)
+* [English Version](./README.md)
 
 ### Ameba RTL8721Dx 系列 SoC：key_scan_regular_scan_demo（Raw API，FreeRTOS）
 
